@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> wikipedia:Nepal</title>
+    
+
+</head>
+<body>
+
+    <form action="">
+        <label for="">
+            search
+      <input type="text" placeholder="search">
+     </label>
+    </form>
+    <table>
+        
+    </table>
+
+
+<h1>nepal</h1>
+<nav>NEPAL</nav>
+<h2>content</h2>
+<h3>federal democratic republic of nepal</h3>
+
+<!-- content -->
+<li>Etymology</li>
+<p></p>
+<li>history</li>
+<li>Geography</li>
+<li>politics and government</li>
+<li>Economy</li>
+<p>https://en.wikipedia.org/wiki/Economy_of_Nepal</p>
+<li>infrastructure</li>
+<li>demographics</li>
+<li>culture</li>
+<li>citation</li>
+<li>external link</li>
+
+
+ 
+
+    
+</body>
+</html>

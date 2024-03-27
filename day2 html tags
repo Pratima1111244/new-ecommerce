@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+< lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html tags</title>
+</head>
+
+    <h1>Hello world!</h1>
+        
+    <!-- tag: -->
+    <!-- </> -->
+    <!-- semantic tag -->
+    <h1></h1>
+    <p></p>
+    <a href=""></a>
+    <table></table>
+    <form action=""></form>
+    <input type="text">
+    <ul></ul>
+    <ol></ol>
+    <li></li>
+
+    <!-- text format -->
+    <b></b>
+    <strong></strong>
+    <em></em>
+    <i></i>
+    <u></u>
+
+    <!-- layout -->
+    <header></header>
+    <nav></nav>
+    <main>
+        <section class="banner"></section>
+    <section class="course"></section>
+      </main>
+    
+    
+    <footer></footer>
+    <h1>hello</h1>
+    <h2>hello</h2>
+    <h3>>hello</h3>
+    <h4>>hello</h4>
+    <h5>>hello</h5>
+    <h6>>hello</h6>
+
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,th,td,tr {
+            border: 2px solid black;
+         border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+
+
+    <!-- semantic -->
+    <h1>profile </h1>
+    <p>senior graphic designer with 6+ years experience in managing design</p>
+    <a href="link"></a>
+    <!-- unorder -->
+    <ul>
+        <li>indesign</li>
+        <li>illistrator</li>
+        <li>photoshop</li>
+        <li>figma</li>
+        <li>blender</li>
+    </ul>
+
+        <!-- order -->
+        <ol>
+            <li>indesign</li>
+            <li>illustrator</li>
+            <li>photoshop</li>
+            <li>figma</li>
+            <li>blender</li>
+        </ol>
+
+        <!-- table -->
+        <table>
+            <thead>
+                <tr>
+                    <th>course</th>
+                    <th>duration</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>ui/ux</td>
+                    <td>2.5 months</td>
+                </tr>
+                <tfoot>
+                    <tr>
+                      <td>subtotal</td> 
+                      <td>23k</td> 
+                        
+                    </tr>
+                </tfoot>
+            </tbody>
+
+
+            <table>
+                <thead>
+                    <tr>
+                        <th > new employeee</th>
+                        </tr>
+                    
+                    <tr>
+
+                        <th rowspan="3">name</th>
+                        <th rowspan="3">jobs</th>
+                     <th rowspan="3">working experience</th>
+                    </tr>
+                  </thead>
+
+                  <tbody>
+                    <tr>
+                        <td>john</td> 
+                        <td>software engineer</td><td>data analyst</td>
+                        <td>2 months</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>ale</td>
+                        <td>senior web developer</td>
+                    </tr>
+                    <tr>
+                        <td>jack</td>
+                        <td>junior tech writer</td> <td>blogger writer</td>
+                        <td>6 months</td>
+                    </tr>
+
+                  </tbody>
+                
+
+    
+            </table>
+
+           
+            
+
+    
+
+</body>
+</html>
